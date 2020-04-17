@@ -738,7 +738,7 @@ input#img-6:checked ~ .nav1-dots label#img-dot-6 {
       <div class="bk-large bk-margin-bottom">
         <i class="fa fa-map-marker fa-fw bk-hover-text-black bk-xlarge bk-margin-right"></i>Faridabad, Haryana<br>
         <i class="fa fa-phone fa-fw bk-hover-text-black bk-xlarge bk-margin-right"></i> Phone: +91 8860640195<br>
-        <i class="fa fa-envelope fa-fw bk-hover-text-black bk-xlarge bk-margin-right"></i> Email: bharatcse@gmail.com<br>
+        <i class="fa fa-envelope fa-fw bk-hover-text-black bk-xlarge bk-margin-right"></i> Email: bhartendukumar1998@gmail.com<br>
       </div>
       <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
       <form action="" target="_blank">
